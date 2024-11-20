@@ -16,6 +16,7 @@ Este projeto é baseado no trabalho original de [brunobatista25](https://github.
 
 Antes de começar, certifique-se de que você tem o seguinte instalado no seu sistema:
 - 🖥️ **Sistema Operacional**: Windows (com [WSL 2](https://learn.microsoft.com/en-us/windows/wsl/) habilitado)
+- 🖥️ **RUBY Devkit**: Instale o kit na máquina ([Download Ruby+Devkit 3.3.6-2](https://rubyinstaller.org/downloads/))
 - 🐋 **Docker Desktop**: Última versão instalada e em execução ([Baixar Docker Desktop](https://www.docker.com/products/docker-desktop))
 - 🛠️ **Git**: Instalado na sua máquina ([Baixar Git](https://git-scm.com/))
 

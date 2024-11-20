@@ -4,6 +4,8 @@
 🚀 This guide will help you set up and run a local web application using Docker.
 It's designed to be a ***SITE FOR AUTOMATION WEB AND API TESTS***. Let’s get started! ✨
 
+**Para README em Português acessar no repositório o documento README-PTBR.md**
+
 ---
 
 ### ℹ️ About
@@ -16,6 +18,7 @@ This project is based on the original work by [brunobatista25](https://github.co
 
 Before you begin, ensure you have the following installed on your system:
 - 🖥️ **Operating System**: Windows (with [WSL 2](https://learn.microsoft.com/en-us/windows/wsl/) enabled)
+- 🖥️ **RUBY Devkit**: Install in your machine ([Download Ruby+Devkit 3.3.6-2](https://rubyinstaller.org/downloads/))
 - 🐋 **Docker Desktop**: Latest version installed and running ([Download Docker Desktop](https://www.docker.com/products/docker-desktop))
 - 🛠️ **Git**: Installed on your machine ([Download Git](https://git-scm.com/))
 
