@@ -1,6 +1,6 @@
 ## 🌐 Site de Automação com Docker
 
-O projeto **Site de Automação com Docker** com melhorias de Philippe Fujisawa!  
+O projeto **Site de Automação com Docker** com melhorias de [Philippe Fujisawa](https://github.com/philfujisawa)!  
 🚀 Este guia ajudará você a configurar e executar uma aplicação web local usando o Docker.  
 É projetado para ser um ***SITE PARA TESTES DE AUTOMAÇÃO WEB E API***. Vamos começar! ✨
 
@@ -96,5 +96,11 @@ Em seguida, você pode criar um novo projeto e realizar os testes Web ou de API.
 **Acesso ao Navegador**: Certifique-se de usar 🌐 http://localhost:3000/ para acessar o site. Se a porta for diferente, verifique seu arquivo docker-compose.yml.
 
 **Parar os Serviços**: Use ```docker-compose down``` para liberar recursos após os testes.
+
+**✨ Melhorias**
+Aqui estão algumas das melhorias que coloquei no projeto até então:
+
+🛠️ Atualização e conserto para a versão corrente do Ruby e de algumas gems evitando falhas em rodar do Docker ou conflitos com o RBENV no Windows.
+🤖 README adicionado, com um guia completo para uso.
 
 🤝Muito Obrigado!🤝

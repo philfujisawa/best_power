@@ -1,6 +1,6 @@
 ## 🌐 Site Automation with Docker
 
-**Site Automation with Docker** project!
+**Site Automation with Docker** project! With [Philippe Fujisawa](https://github.com/philfujisawa) improvements.
 🚀 This guide will help you set up and run a local web application using Docker.
 It's designed to be a ***SITE FOR AUTOMATION WEB AND API TESTS***. Let’s get started! ✨
 
@@ -96,5 +96,11 @@ Next you can create a new project and make the web or API tests.
 **Browser Access**: Ensure you use 🌐 http://localhost:3000/ to access the site. If the port is different, check your docker-compose.yml file.
 
 **Stop Services**: Use docker-compose down to free up resources after testing.
+
+**✨ Enhancements**
+Here’s is what I improved until now:
+
+🛠️ Update and fix to current Ruby and some gems avoiding bug to run Docker or RBENV conflicts for Windows OS.
+🤖 Add a good readme.
 
 🤝Thank you so much!🤝
